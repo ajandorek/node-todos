@@ -289,4 +289,4 @@ describe('POST /users/login', () => {
       }).catch((e) => done(e));
     });
   });
-})
+});
